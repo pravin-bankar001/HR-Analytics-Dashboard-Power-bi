@@ -25,7 +25,7 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze employ
 - Interactive Filters & Slicers
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![HR_Analytics_Dashboard.jpg](HR_Analytics_Dashboard.jpg)
 
 ## 🚀 How to Use
 1. Download the .pbix file
