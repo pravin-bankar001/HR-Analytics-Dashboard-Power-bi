@@ -1,7 +1,7 @@
-# HR Analytics Dashboard (Power BI)
+#Employee Attrition & Performance Dashboard (Excel, Power BI)
 
 ## 📊 Project Overview
-Developed an interactive HR Analytics Dashboard using Power BI to analyze employee attrition, demographics, and department performance.
+Developed an interactive Employee Attrition & Performance Dashboard using Power BI to analyze employee attrition, demographics, and department performance.
 
 ## 📌 Key Metrics
 - Total Employees: 1470
