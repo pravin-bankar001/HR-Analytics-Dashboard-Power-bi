@@ -1,4 +1,4 @@
-#Employee Attrition & Performance Dashboard (Excel, Power BI)
+# Employee Attrition & Performance Dashboard (Excel, Power BI)
 
 ## 📊 Project Overview
 Developed an interactive Employee Attrition & Performance Dashboard using Power BI to analyze employee attrition, demographics, and department performance.
